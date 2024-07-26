@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517194880909",
+    "project_id": "wsecure20",
+    "storage_bucket": "wsecure20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517194880909:android:0c10e0748e2132dc094fc4",
+        "android_client_info": {
+          "package_name": "com.example.uber_like_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsk7XbGZ4mkqTIHUMN-H3w2oByNdLc-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
