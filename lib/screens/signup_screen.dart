@@ -41,7 +41,7 @@ class _RegisterPageState extends State<RegisterPage> {
     Navigator.pushReplacement(
       context,
       MaterialPageRoute(builder: (context) {
-        return HomePage();
+        return HomeScreen();
       }),
     );
   }
@@ -65,7 +65,7 @@ class _RegisterPageState extends State<RegisterPage> {
         context,
         MaterialPageRoute(
           builder: (context) {
-            return HomePage();
+            return HomeScreen();
           },
         ),
       );
