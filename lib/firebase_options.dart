@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDTa8viFC23a6NTzL-bhUEGVad1OmFwQMg',
-    appId: '1:517194880909:web:13ebc4decd640802094fc4',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '517194880909',
     projectId: 'wsecure20',
     authDomain: 'w20.firebaseapp.com',
@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBJsk7XbGZ4mkqTIHUMN-H3w2oByNdLc-U',
-    appId: '1:517194880909:android:0c10e0748e2132dc094fc4',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '517194880909',
     projectId: 'wsecure20',
     storageBucket: 'wsecure20.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA9r-jR2wwWkKwihuBaD9ernvG9ode_rm4',
-    appId: '1:517194880909:ios:1a9e220bc4c70e80094fc4',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '517194880909',
     projectId: 'wsecure20',
     storageBucket: 'wsecure20.appspot.com',
@@ -67,8 +67,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA9r-jR2wwWkKwihuBaD9ernvG9ode_rm4',
-    appId: '1:517194880909:ios:1a9e220bc4c70e80094fc4',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '517194880909',
     projectId: 'wsecure20',
     storageBucket: 'wsecure20.appspot.com',
@@ -76,8 +76,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDTa8viFC23a6NTzL-bhUEGVad1OmFwQMg',
-    appId: '1:517194880909:web:d3137688ae08029d094fc4',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '517194880909',
     projectId: 'wsecure20',
     authDomain: 'w20.firebaseapp.com',
